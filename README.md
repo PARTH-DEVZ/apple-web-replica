@@ -1,12 +1,132 @@
-# React + Vite
+Apple Website Replica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+High-fidelity recreation of Apple’s modern product landing experience, engineered with advanced 3D rendering, cinematic animations, and pixel-perfect UI precision.
 
-Currently, two official plugins are available:
+🔗 Live Application: https://apple-web-replica.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Repository: https://github.com/PARTH-DEVZ/apple-web-replica
 
-## Expanding the ESLint configuration
+🔗 Portfolio Page: https://parthdevz.vercel.app/project/apple-web
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 Overview
+
+This project is a visually immersive recreation of Apple’s product landing page experience.
+
+It focuses on:
+
+Precision layout replication
+
+Advanced scroll-driven animation sequencing
+
+3D product visualization
+
+Performance-optimized rendering
+
+The goal was to demonstrate high-level frontend engineering, animation architecture, and modern UI composition techniques.
+
+🛠 Tech Stack
+Core
+
+React
+
+Vite
+
+Tailwind CSS
+
+3D & Animation
+
+Three.js
+
+GSAP (GreenSock Animation Platform)
+
+✨ Core Features
+🎥 Cinematic Scroll Animations
+
+Smooth scroll-triggered animation timelines
+
+Advanced sequencing using GSAP
+
+Hardware-accelerated transitions
+
+🧊 3D Product Visualization
+
+High-fidelity 3D rendering using Three.js
+
+Interactive product scene composition
+
+Performance-optimized rendering pipeline
+
+🎨 Pixel-Perfect UI Engineering
+
+Precise typography hierarchy
+
+Accurate spacing & layout replication
+
+Responsive breakpoints matching real-world design systems
+
+⚡ Performance Optimization
+
+60fps smooth interactions
+
+Optimized asset loading
+
+Efficient animation batching
+
+Clean component architecture for scalability
+
+🧠 Engineering Highlights
+
+Component-driven architecture
+
+Modular animation timelines
+
+Clean separation between UI structure and animation logic
+
+GPU-accelerated transforms for smooth rendering
+
+Optimized scroll performance
+
+📂 Project Structure
+/src
+  /components     → Reusable UI & 3D components
+  /scenes         → Three.js scene logic
+  /animations     → GSAP timelines & sequences
+  /assets         → Models & media
+  /styles         → Tailwind configuration
+⚙️ Local Setup
+git clone https://github.com/PARTH-DEVZ/apple-web-replica
+cd apple-web-replica
+npm install
+npm run dev
+🎯 What This Project Demonstrates
+
+Advanced frontend animation systems
+
+Real-time 3D rendering integration in React
+
+Performance-conscious UI engineering
+
+Production-style layout precision
+
+Modern interactive storytelling techniques
+
+🚀 Future Improvements
+
+Model optimization for lower GPU usage
+
+Dynamic lighting enhancements
+
+Progressive scene loading
+
+WebGL performance benchmarking
+
+Accessibility improvements
+
+👨‍💻 Author
+
+Parth Kulkarni
+Frontend & Full-Stack Developer focused on performance-driven UI systems and scalable architecture.
+
+📄 License
+
+Developed for portfolio and educational purposes.
